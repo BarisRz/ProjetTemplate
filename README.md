@@ -1,4 +1,5 @@
-Template pour rapidement coder, React+Vite  🚀
+Template pour rapidement coder, avec Tailwind de deja setup 🚀
+React+Vite
 ### Presetup
 ```
 npm install
