@@ -1,6 +1,6 @@
 Template pour rapidement coder, avec Tailwind de deja setup 🚀
 React+Vite
-### Presetup
+### Setup
 ```
 npm install
 npm run dev
